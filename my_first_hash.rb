@@ -1,6 +1,5 @@
 def my_hash
- hash = {"whale bone corsets" => "5","porcelain vases" => "2","oil paintings" => "3"}
-  
+ hash = ["whale bone corsets" => "5","porcelain vases" => "2","oil paintings" => "3"]
 end
 
 
